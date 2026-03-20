@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, sou Matheus Egon Schneider</h1>
 <h3 align="center">Desenvolvedor backend do Brasil</h3>
 
-- 🌱 Atualmente estou aprendendo **Técnico de sistemas cibernéticos para automação**
+- 🌱 Atualmente estou aprendendo **Técnico de sistemas cibersistemas para automação**
 
 - 📫 Como me contatar **egonschneider08@icloud.com**
 
