@@ -3,14 +3,36 @@
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
 
-  const profile = {
-  name: "Matheus E. Schneider",
-  role: "Software Developer",
-  bio: "Hi there! I'm Matheus E. Schneider, a passionate developer who loves building clean, efficient, and well-documented software. I'm always looking to learn new technologies and collaborate on meaningful projects.",
-};
+<h1 align="center">Hi, I'm Matheus E. Schneider 👋</h1>
 
-console.log(`👋 ${profile.bio}`);
-  
+<p align="center">
+  Passionate developer who loves building clean, efficient, and well-documented software.
+  <br>
+  Always looking to learn new technologies and collaborate on meaningful projects.
+</p>
+
+---
+
+### 🙋 About me
+
+- 🎯 Focused on writing clean and well-structured code
+- 🌱 Always learning and exploring new technologies
+- 🤝 Open to collaborations and new opportunities
+- 📍 Brazil
+
+---
+
+### 📬 Get in touch
+
+- GitHub: [@matheus-e-schneider](https://github.com/matheus-e-schneider)
+- LinkedIn: [linkedin.com/in/matheus-e-schneider](https://linkedin.com/in/matheus-e-schneider)
+- Email: seu@email.com
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=matheus-e-schneider&style=flat&color=blue" alt="profile views" />
+</p>
 <div>
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
 </div>
