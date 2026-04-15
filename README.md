@@ -1,22 +1,25 @@
 <h1 align="center">Hi, I'm Matheus E. Schneider <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30px"/></h1>
 
-<p align="center">
-  Passionate developer who loves building clean, efficient, and well-documented software.<br/>
-  Always looking to learn new technologies and collaborate on meaningful projects.
-</p>
+<div>
+  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="280px" align="right" alt="Coder gif"/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=matheus-e-schneider&style=flat&color=blue" alt="profile views"/>
+  <p>
+    Passionate developer who loves building clean, efficient, and well-documented software.<br/>
+    Always looking to learn new technologies and collaborate on meaningful projects.
+  </p>
+
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=egonschneider08-sketch&style=flat&color=blue" alt="profile views"/>
+  </div>
+
+  <h3>🙋 About me</h3>
+
+  - 🎯 Focused on writing clean and well-structured code
+  - 🌱 Always learning and exploring new technologies
+  - 🤝 Open to collaborations and new opportunities
+  - 📍 Brazil
+
 </div>
-
----
-
-### 🙋 About me
-
-- 🎯 Focused on writing clean and well-structured code
-- 🌱 Always learning and exploring new technologies
-- 🤝 Open to collaborations and new opportunities
-- 📍 Brazil
 
 ---
 
@@ -34,9 +37,9 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe" width="30px" align="center"/> Let's Stay Connected
 
-- 🐙 GitHub: [@matheus-e-schneider](https://github.com/matheus-e-schneider)
+- 🐙 GitHub: [@egonschneider08-sketch](https://github.com/egonschneider08-sketch)
 - 💼 LinkedIn: [linkedin.com/in/matheus-e-schneider](https://linkedin.com/in/matheus-e-schneider)
-- 📧 Email: seu@email.com
+- 📧 Email: egonschneider@icloud.com
 
 ---
 
@@ -46,4 +49,10 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
   </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39" alt="gifgithub"/>
 </div>
