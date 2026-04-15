@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Matheus E. Schneider   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> h1>
+<h1 align="center">Hi, I'm Matheus E. Schneider <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> h1>
 
 <p align="center">
   Passionate developer who loves building clean, efficient, and well-documented software.
@@ -30,14 +30,6 @@
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
 </div>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=matheus-e-schneider&style=flat&color=blue" alt="profile views" />
-</p>
-<div>
-  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
-</div>
 
 <div align="center">
   <picture>
