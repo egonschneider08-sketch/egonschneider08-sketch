@@ -2,8 +2,14 @@
 
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
-Hi there! I'm Matheus E. Schneider, a passionate developer who loves building clean, efficient, and well-documented software. I'm always looking to learn new technologies and collaborate on meaningful projects.
 
+  const profile = {
+  name: "Matheus E. Schneider",
+  role: "Software Developer",
+  bio: "Hi there! I'm Matheus E. Schneider, a passionate developer who loves building clean, efficient, and well-documented software. I'm always looking to learn new technologies and collaborate on meaningful projects.",
+};
+
+console.log(`👋 ${profile.bio}`);
   
 <div>
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
