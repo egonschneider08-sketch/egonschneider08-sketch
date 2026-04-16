@@ -38,7 +38,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe" width="30px" align="center"/> Let's Stay Connected
 
 - 🐙 GitHub: [@egonschneider08-sketch](https://github.com/egonschneider08-sketch)
-- 💼 LinkedIn: [linkedin.com/in/matheus-e-schneider]([https://linkedin.com/in/matheus-e-schneider](https://www.linkedin.com/in/matheus-schneider-4991343a8/))
+- 💼 LinkedIn: https://www.linkedin.com/in/matheus-schneider-4991343a8/
 - 📧 Email: egonschneider@icloud.com
 
 ---
