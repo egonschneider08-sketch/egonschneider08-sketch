@@ -28,7 +28,7 @@ and documentation that actually helps. Based in Santa Catarina, Brazil 🇧🇷,
 
 ---
 
-## 🛠️ Tech Stack
+
 
 <div align="center">
 
@@ -86,7 +86,6 @@ and documentation that actually helps. Based in Santa Catarina, Brazil 🇧🇷,
 
 ---
 
-## 📊 My GitHub Stats
 
 <div align="center">
 
@@ -101,7 +100,6 @@ and documentation that actually helps. Based in Santa Catarina, Brazil 🇧🇷,
 
 ---
 
-## 🐍 Contribution Graph
 
 <div align="center">
   <picture>
@@ -113,7 +111,6 @@ and documentation that actually helps. Based in Santa Catarina, Brazil 🇧🇷,
 
 ---
 
-## 🌐 Let's Connect
 
 <div align="center">
 
