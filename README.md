@@ -6,16 +6,17 @@
 
 <img align="right" src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="240px" alt="Coder gif"/>
 
-### 👋 Olá! I'm Matheus
+### 👋 Hey, I'm Matheus
 
-I'm a passionate developer from **Santa Catarina, Brazil** who loves building clean, efficient, and well-documented software.
+I write code that's meant to last — clean architecture, meaningful abstractions,
+and documentation that actually helps. Based in Santa Catarina, Brazil 🇧🇷, building things that matter.
 
-<br/>
+---
 
-🎯 &nbsp;Focused on **clean and well-structured** code  
-🌱 &nbsp;Always learning and exploring **new technologies**  
-🤝 &nbsp;Open to **collaborations** and new opportunities  
-📝 &nbsp;Believer that **good docs** are part of the code  
+✦ **Clean code advocate** — structure and clarity over quick fixes  
+✦ **Docs-first mindset** — good docs are part of the product, not an afterthought  
+✦ **Always evolving** — chasing new tools, patterns, and better ways to build  
+✦ **Open to collabs** — got an interesting project? let's talk
 
 <br/>
 
