@@ -90,13 +90,13 @@ and documentation that actually helps. Based in Santa Catarina, Brazil 🇧🇷,
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=egonschneider08-sketch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0e1a&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egonschneider08-sketch&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00d4ff&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=egonschneider08-sketch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0e1a&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=egonschneider08-sketch&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00d4ff&text_color=ffffff"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=egonschneider08-sketch&theme=tokyonight&hide_border=true&background=0a0e1a&stroke=00d4ff&ring=7c3aed&fire=00d4ff&currStreakLabel=00d4ff" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com/?user=egonschneider08-sketch&theme=tokyonight&hide_border=true&background=0a0e1a&stroke=00d4ff&ring=7c3aed&fire=00d4ff&currStreakLabel=00d4ff" alt="streak stats"/>
 </div>
 
 ---
