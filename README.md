@@ -1,73 +1,60 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:00d4ff,100:7c3aed&height=180&section=header&text=Matheus%20E.%20Schneider&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Passionate%20Developer%20%7C%20Brazil%20%F0%9F%87%A7%F0%9F%87%B7&descAlignY=58&descSize=16" alt="header"/>
-</div>
-
-<br/>
-
-<img align="right" src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="240px" alt="Coder gif"/>
-
 ### 👋 Hey, I'm Matheus
 
-I write code that's meant to last — clean architecture, meaningful abstractions,
-and documentation that actually helps. Based in Santa Catarina, Brazil 🇧🇷, building things that matter.
+I write code that's meant to last — clean architecture, meaningful abstractions, and documentation that actually helps. Based in Santa Catarina, Brazil 🇧🇷, building things that matter.
+
+> *"Good code is its own best documentation."*
 
 ---
 
-✦ **Clean code advocate** — structure and clarity over quick fixes  
-✦ **Docs-first mindset** — good docs are part of the product, not an afterthought  
-✦ **Always evolving** — chasing new tools, patterns, and better ways to build  
-✦ **Open to collabs** — got an interesting project? let's talk
+### 🛠 Tech Stack
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=egonschneider08-sketch&style=flat-square&color=00d4ff&label=Profile+Views)
-
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
-</div>
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br>
+      <sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" /><br>
+      <sub><b>Spring</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br>
+      <sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br>
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br>
+      <sub><b>MySQL</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🌐 Let's Connect
+### 🧭 About me
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-egonschneider08--sketch-181717?style=flat-square&logo=github)](https://github.com/egonschneider08-sketch)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus%20Schneider-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/matheus-schneider-4991343a8/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-egonschneider@icloud.com-006FFF?style=flat-square&logo=icloud)](mailto:egonschneider@icloud.com)
-
-</div>
+| | |
+|---|---|
+| 🎯 | Focused on **clean, well-structured** code |
+| 📝 | Believer that **good docs** are part of the product |
+| 🌱 | Always learning and exploring **new technologies** |
+| 🤝 | Open to **collaborations** and new opportunities |
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00d4ff,100:0a0e1a&height=100&section=footer" alt="footer"/>
-</div>
+<p align="center">
+  <i>Let's build something that lasts.</i><br><br>
+  <a href="mailto:seu@email.com">📬 Get in touch</a>
+</p>
