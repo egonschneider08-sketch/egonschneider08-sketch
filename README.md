@@ -6,7 +6,7 @@
 
 <img align="right" src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="240px" alt="Coder gif"/>
 
-### Matheus E. Schneider, Aprendiz técnico na WEG | Cibersistemas para Automação
+### Matheus Schneider, Aprendiz técnico na WEG | Cibersistemas para Automação
 
 I write code that's meant to last — clean architecture, meaningful abstractions,
 and documentation that actually helps. Based in Santa Catarina, Brazil 🇧🇷, building things that matter.
