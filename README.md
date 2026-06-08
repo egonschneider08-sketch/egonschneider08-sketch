@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=200&section=header&text=Matheus%20Schneider&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Software%20Developer%20%E2%80%94%20Santa%20Catarina%2C%20Brazil&descAlignY=60&descSize=15&animation=fadeIn" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:5b6af0,100:7c3aed&height=200&section=header&text=Matheus%20Schneider&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Software%20Developer%20%E2%80%94%20Santa%20Catarina%2C%20Brazil&descAlignY=60&descSize=15&animation=fadeIn" alt="header" />
 
 </div>
 
@@ -68,14 +68,14 @@ const matheus = {
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=egonschneider08-sketch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed"/>
-<img height="175em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=egonschneider08-sketch&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9"/>
+<img height="175em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=egonschneider08-sketch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=5b6af0&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed"/>
+<img height="175em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=egonschneider08-sketch&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5b6af0&text_color=c9d1d9"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=egonschneider08-sketch&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7c3aed&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=egonschneider08-sketch&theme=tokyonight&hide_border=true&background=0d1117&stroke=5b6af0&ring=7c3aed&fire=5b6af0&currStreakLabel=5b6af0&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 
 </div>
 
@@ -107,7 +107,7 @@ const matheus = {
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=egonschneider08-sketch&style=flat-square&color=00d4ff&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=egonschneider08-sketch&style=flat-square&color=5b6af0&label=Profile+Views)
 
 <br/>
 
@@ -116,5 +116,5 @@ const matheus = {
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00d4ff,100:0d1117&height=120&section=footer" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:5b6af0,100:0d1117&height=120&section=footer" alt="footer"/>
 </div>
