@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:FFD700,100:111111&height=200&section=header&text=Matheus%20Schneider&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Software%20Developer%20%E2%80%94%20Santa%20Catarina%2C%20Brazil&descAlignY=60&descSize=15&animation=fadeIn" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1B3A6B,100:0a1628&height=200&section=header&text=Matheus%20Schneider&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Software%20Developer%20%E2%80%94%20Santa%20Catarina%2C%20Brazil&descAlignY=60&descSize=15&animation=fadeIn" alt="header" />
 
 </div>
 
 <br/>
-
-<img align="right" src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="220px" alt="Coder gif"/>
 
 ```ts
 const matheus = {
@@ -26,8 +24,6 @@ const matheus = {
 - **Docs as a product** — documentation is part of what I ship
 - **Continuous growth** — always chasing better patterns and tools
 - **Open to collaborate** — have an interesting project? let's talk
-
-<br clear="right"/>
 
 ---
 
@@ -68,28 +64,14 @@ const matheus = {
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=egonschneider08-sketch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=c9d1d9&ring_color=FFD700"/>
-<img height="175em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=egonschneider08-sketch&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFD700&text_color=c9d1d9"/>
+<img height="175em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=egonschneider08-sketch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4A7FBF&icon_color=1B3A6B&text_color=c9d1d9&ring_color=1B3A6B"/>
+<img height="175em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=egonschneider08-sketch&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4A7FBF&text_color=c9d1d9"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=egonschneider08-sketch&theme=tokyonight&hide_border=true&background=0d1117&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## `// Contribution Activity`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
+<img src="https://streak-stats.demolab.com/?user=egonschneider08-sketch&theme=tokyonight&hide_border=true&background=0d1117&stroke=1B3A6B&ring=4A7FBF&fire=4A7FBF&currStreakLabel=4A7FBF&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 
 </div>
 
@@ -99,15 +81,15 @@ const matheus = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-egonschneider08--sketch-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/egonschneider08-sketch)
+[![GitHub](https://img.shields.io/badge/GitHub-egonschneider08--sketch-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/egonschneider08-sketch)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus%20Schneider-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-schneider-4991343a8/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-egonschneider@icloud.com-006FFF?style=for-the-badge&logo=icloud&logoColor=white)](mailto:egonschneider@icloud.com)
+[![Email](https://img.shields.io/badge/Email-egonschneider@icloud.com-1B3A6B?style=for-the-badge&logo=icloud&logoColor=white)](mailto:egonschneider@icloud.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=egonschneider08-sketch&style=flat-square&color=FFD700&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=egonschneider08-sketch&style=flat-square&color=1B3A6B&label=Profile+Views)
 
 <br/>
 
@@ -116,5 +98,5 @@ const matheus = {
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:FFD700,100:0d1117&height=120&section=footer" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:1B3A6B,100:0d1117&height=120&section=footer" alt="footer"/>
 </div>
