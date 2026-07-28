@@ -8,8 +8,8 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=egonschneider08-sketch&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=4A7FBF&icon_color=4A7FBF&text_color=c9d1d9&ring_color=1B3A6B" alt="GitHub Stats" />
-<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=egonschneider08-sketch&layout=donut&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=4A7FBF&text_color=c9d1d9" alt="Most Used Languages" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=egonschneider08-sketch&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=4A7FBF&icon_color=4A7FBF&text_color=c9d1d9&ring_color=1B3A6B" alt="GitHub Stats" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egonschneider08-sketch&layout=donut&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=4A7FBF&text_color=c9d1d9" alt="Most Used Languages" />
 
 </div>
 
@@ -64,7 +64,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=egonschneider08-sketch&theme=tokyonight&hide_border=true&background=0d1117&stroke=1B3A6B&ring=4A7FBF&fire=4A7FBF&currStreakLabel=4A7FBF&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+<img height="165em" src="https://streak-stats.demolab.com/?user=egonschneider08-sketch&theme=tokyonight&hide_border=true&background=0d1117&stroke=1B3A6B&ring=4A7FBF&fire=4A7FBF&currStreakLabel=4A7FBF&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 
 </div>
 
