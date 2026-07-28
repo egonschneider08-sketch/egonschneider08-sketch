@@ -6,13 +6,6 @@
 
 <br/>
 
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=egonschneider08-sketch&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=4A7FBF&icon_color=4A7FBF&text_color=c9d1d9&ring_color=1B3A6B" alt="GitHub Stats" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egonschneider08-sketch&layout=donut&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=4A7FBF&text_color=c9d1d9" alt="Most Used Languages" />
-
-</div>
-
 <br/>
 
 <div align="center">
