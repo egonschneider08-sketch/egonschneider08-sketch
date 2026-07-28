@@ -6,30 +6,12 @@
 
 <br/>
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 📊 Matheus's GitHub Stats
+<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=egonschneider08-sketch&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=4A7FBF&icon_color=4A7FBF&text_color=c9d1d9&ring_color=1B3A6B" alt="GitHub Stats" />
+<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=egonschneider08-sketch&layout=donut&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=4A7FBF&text_color=c9d1d9" alt="Most Used Languages" />
 
-⭐ Total Stars Earned: —
-📈 Total Commits: —
-🔀 Total PRs: —
-🐛 Total Issues: —
-📦 Contributed to (last year): —
-
-</td>
-<td width="50%" valign="top">
-
-### 🔥 Most Used Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
@@ -78,11 +60,9 @@
 
 ---
 
-## `// GitHub Stats`
+## `// GitHub Streak`
 
 <div align="center">
-
-<img height="175em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=egonschneider08-sketch&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4A7FBF&text_color=c9d1d9"/>
 
 <img src="https://streak-stats.demolab.com/?user=egonschneider08-sketch&theme=tokyonight&hide_border=true&background=0d1117&stroke=1B3A6B&ring=4A7FBF&fire=4A7FBF&currStreakLabel=4A7FBF&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 
