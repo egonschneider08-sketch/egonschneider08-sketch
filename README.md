@@ -12,7 +12,7 @@
 
 ## `// Tech Stack`
 
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,fastapi,flask,django" alt="tech icons" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,django" alt="tech icons" />
 
 </div>
 
